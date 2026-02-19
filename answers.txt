@@ -1,2 +1,12 @@
 Q1: Why might we consider using Git?
-Bc it's useful 
+
+Answer: Git allows many developers to work together on a project and it's one of the 
+most powerful SCM in the world due to its CI/CD capabilties as well
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to sports analytics as it can predict players' statistics using past/
+historical data.
+
+
