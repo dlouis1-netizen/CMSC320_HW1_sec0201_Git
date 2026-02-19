@@ -10,3 +10,11 @@ Answer: It can be applied to sports analytics as it can predict players' statist
 historical data.
 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches into a commit while keeping the history while rebasing commits 
+onto another branch for cleaner history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about Data Science principles and useful tools.
